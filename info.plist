@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>com.jyeakley.atlassian</string>
+	<key>category</key>
+	<string>Productivity</string>
+	<key>connections</key>
+	<dict>
+		<key>04738A54-DBDC-443A-815D-71A55BE03892</key>
+		<array/>
+		<key>2632554D-9BF8-462F-95D2-3C20892974FF</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>04738A54-DBDC-443A-815D-71A55BE03892</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>3EFE5191-92D0-46A1-B89E-CAC5557F08AC</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5A7BFC9D-C063-4AA1-AE70-CAB4D7F0D3FD</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>446748F5-9254-4BB0-8D9E-738640545631</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>6061B0A4-3D61-479C-B3E3-6BF19306CEE4</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>48DFEE58-0666-4B66-BAB8-69FD38C7903E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>7D0482A9-C3E9-4F48-86AC-1CED9003F59B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>4CE6DD8F-4A20-4F55-80A6-E6EA3237DF56</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A94F6596-B288-4CB2-BB97-D62B3647EB8A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>5A7BFC9D-C063-4AA1-AE70-CAB4D7F0D3FD</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F50CC8C5-932D-4024-A1BA-DB4C8638B20C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>6061B0A4-3D61-479C-B3E3-6BF19306CEE4</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E92BF36A-566D-4D79-94A0-F4BA1AAA0819</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>63A98276-5343-4BC8-ACC6-39C3351A1D4D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>7D0482A9-C3E9-4F48-86AC-1CED9003F59B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>6C99BED4-076D-4215-AA81-CF6D1B7D9243</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>87BB8E90-8109-4FAF-9472-E112795CD4D1</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>87BB8E90-8109-4FAF-9472-E112795CD4D1</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E92BF36A-566D-4D79-94A0-F4BA1AAA0819</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>A94F6596-B288-4CB2-BB97-D62B3647EB8A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E92BF36A-566D-4D79-94A0-F4BA1AAA0819</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>B918AFAB-C2C4-4FE5-A2EC-F54D95CE7157</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>7D0482A9-C3E9-4F48-86AC-1CED9003F59B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>E2FDD6F8-BD61-46FE-8E70-6886E059BC21</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>7D0482A9-C3E9-4F48-86AC-1CED9003F59B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>Justin Yeakley</string>
+	<key>description</key>
+	<string>Atlassian API Integration</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>Atlassian</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>output</key>
+				<integer>0</integer>
+				<key>removeextension</key>
+				<false/>
+				<key>sticky</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>JIRA Info set</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>F50CC8C5-932D-4024-A1BA-DB4C8638B20C</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>118</integer>
+				<key>script</key>
+				<string>require( 'workflows.php' );
+$w = new Workflows();
+$query = "{query}";
+
+exec( 'touch settings.plist' );
+$tokens = explode("  ", $query);
+
+$in = "$tokens[0]";
+$type = "$tokens[1]";
+
+$in = str_replace('$', '\$', $in);
+
+if ( $type == 'hostname' ):
+	$w-&gt;set( 'hostname', $in, 'settings.plist' );
+	echo 'Set hostname to '.$in;
+elseif ($type == 'username'):
+	$w-&gt;set( 'username', $in, 'settings.plist' );
+	echo 'Set username to '.$in;
+elseif ($type == 'password'):
+	$w-&gt;set( 'password', $in, 'settings.plist' );
+	echo 'Set password to '.$in;
+endif;</string>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>5A7BFC9D-C063-4AA1-AE70-CAB4D7F0D3FD</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>118</integer>
+				<key>keyword</key>
+				<string>atlassianinfo</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Gathering Fields</string>
+				<key>script</key>
+				<string>$query = "{query}";
+
+require( 'workflows.php' );
+$w = new Workflows();
+
+$w-&gt;result( 'hostname', "$query  hostname", "$query", 'Set your base hostname to '.$query, 'icon.png', 'yes', "$query" );
+$w-&gt;result( 'username', "$query  username", "$query", 'Set your username to '.$query, 'icon.png', 'yes', "$query" );
+$w-&gt;result( 'password', "$query  password", "$query", 'Set your password to '.$query, 'icon.png', 'yes', "$query" );
+
+echo $w-&gt;toxml();</string>
+				<key>title</key>
+				<string>Set Atlassian Information</string>
+				<key>type</key>
+				<integer>1</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>3EFE5191-92D0-46A1-B89E-CAC5557F08AC</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>keyword</key>
+				<string>jirafilter</string>
+				<key>queuedelaycustom</key>
+				<integer>5</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>2</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Gathering Issues...</string>
+				<key>script</key>
+				<string>require('workflows.php');
+$wf = new Workflows();
+
+$orig = "{query}";
+
+$hostname = $wf-&gt;get( 'hostname', 'settings.plist' );
+$user = $wf-&gt;get( 'username', 'settings.plist' );
+$password = $wf-&gt;get( 'password', 'settings.plist' );
+$basicInfo = $user.":".$password;
+$filter = $wf-&gt;get( 'filter', 'settings.plist' );
+$filter = str_replace('::left::', '(', $filter);
+$filter = str_replace('::right::', ')', $filter);
+$filter = str_replace('https://'.$hostname, '', $filter);
+
+$url = "https://".$basicInfo."@".$hostname;
+
+$xml = $wf-&gt;request($url.$filter);
+$xml = json_decode($xml,true);
+$int = 1;
+
+foreach ($xml['issues'] as $item)
+{
+	$wf-&gt;result( 'issue', 'https://genomoncology.atlassian.net/browse/'.$item['key'], $item['key']." : ".$item['fields']['summary'], "Type: ".$item['fields']['issuetype']['name'].'  Status: '.$item['fields']['status']['name']."   Assigned to: ".$item['fields']['assignee']['displayName']."  Priority: ".$item['fields']['priority']['name'], 'icon.png');
+};
+
+$results = $wf-&gt;results();
+if ( count( $results ) == 0 ):
+	$wf-&gt;result( 'jira', 'No Suggestions', 'No Suggestions', 'No Issues found.', 'icon.png' );
+endif;
+
+echo $wf-&gt;toxml();</string>
+				<key>title</key>
+				<string>Gather Issues by set filter</string>
+				<key>type</key>
+				<integer>1</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>63A98276-5343-4BC8-ACC6-39C3351A1D4D</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>keyword</key>
+				<string>jiraowner</string>
+				<key>queuedelaycustom</key>
+				<integer>5</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>2</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Gathering Issues...</string>
+				<key>script</key>
+				<string>require('workflows.php');
+$wf = new Workflows();
+
+$orig = "{query}";
+$queryTemplate = "jql=project%20in%20(DS,%20JY,%20CS)%20AND%20issuetype%20in%20(Bug,%20Epic,%20\"New%20Feature\",%20Task,%20Sub-task)%20AND%20status%20in%20(Open,%20\"Ready%20to%20Code\",%20\"In%20Code\",%20Failed,%20\"To%20Do\",%20\"In%20Dev\")%20AND%20assignee%20in%20($orig)";
+$jqlQuery = str_replace(' ', '%20', $queryTemplate);
+
+$hostname = $wf-&gt;get( 'hostname', 'settings.plist' );
+$user = $wf-&gt;get( 'username', 'settings.plist' );
+$password = $wf-&gt;get( 'password', 'settings.plist' );
+$basicInfo = $user.":".$password;
+
+$url = "https://".$basicInfo."@".$hostname;
+$xml = $wf-&gt;request( $url."/rest/api/2/search?".$jqlQuery);
+$xml = json_decode($xml,true);
+$int = 1;
+
+foreach ($xml['issues'] as $item)
+{
+	$wf-&gt;result( 'issue', 'https://genomoncology.atlassian.net/browse/'.$item['key'], $item['key']." : ".$item['fields']['summary'], "Type: ".$item['fields']['issuetype']['name'].'  Status: '.$item['fields']['status']['name']."   Assigned to: ".$item['fields']['assignee']['displayName']."  Priority: ".$item['fields']['priority']['name'] , 'icon.png' );
+};
+
+$results = $wf-&gt;results();
+if ( count( $results ) == 0 ):
+	$wf-&gt;result( 'jira', 'No Suggestions', 'No Suggestions', 'No Issues found.', 'icon.png' );
+endif;
+
+echo $wf-&gt;toxml();</string>
+				<key>title</key>
+				<string>Gather Open Issues by User</string>
+				<key>type</key>
+				<integer>1</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>E2FDD6F8-BD61-46FE-8E70-6886E059BC21</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>plusspaces</key>
+				<false/>
+				<key>url</key>
+				<string>{query}</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>7D0482A9-C3E9-4F48-86AC-1CED9003F59B</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>keyword</key>
+				<string>jirasearchdesc</string>
+				<key>queuedelaycustom</key>
+				<integer>5</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>2</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Gathering Issues...</string>
+				<key>script</key>
+				<string>require('workflows.php');
+$wf = new Workflows();
+
+$orig = "{query}";
+$queryTemplate = "jql=summary%20~%20\"$orig\"";
+$jqlQuery = str_replace(' ', '%20', $queryTemplate);
+
+$hostname = $wf-&gt;get( 'hostname', 'settings.plist' );
+$user = $wf-&gt;get( 'username', 'settings.plist' );
+$password = $wf-&gt;get( 'password', 'settings.plist' );
+$basicInfo = $user.":".$password;
+
+$url = "https://".$basicInfo."@".$hostname;
+$xml = $wf-&gt;request( $url."/rest/api/2/search?".$jqlQuery);
+$xml = json_decode($xml,true);
+$int = 1;
+
+if(count($xml['issues']) &gt; 0):
+	foreach ($xml['issues'] as $item)
+	{
+		$wf-&gt;result( 'issue', 'https://genomoncology.atlassian.net/browse/'.$item['key'], $item['key']." : ".$item['fields']['summary'], "Type: ".$item['fields']['issuetype']['name'].'  Status: '.$item['fields']['status']['name']."   Assigned to: ".$item['fields']['assignee']['displayName']."  Priority: ".$item['fields']['priority']['name'] , 'icon.png' );
+	};
+endif;
+
+$results = $wf-&gt;results();
+if ( count( $results ) == 0 ):
+	$wf-&gt;result( 'jira', 'No Suggestions', 'No Suggestions', 'No Issues found.', 'icon.png' );
+endif;
+
+echo $wf-&gt;toxml();</string>
+				<key>title</key>
+				<string>Search By Desc</string>
+				<key>type</key>
+				<integer>1</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>B918AFAB-C2C4-4FE5-A2EC-F54D95CE7157</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>keyword</key>
+				<string>jirasearchid</string>
+				<key>queuedelaycustom</key>
+				<integer>5</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>2</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Gathering Issues...</string>
+				<key>script</key>
+				<string>require('workflows.php');
+$wf = new Workflows();
+
+$orig = "{query}";
+$queryTemplate = "jql=key%20in%20(\"$orig\")";
+$jqlQuery = str_replace(' ', '%20', $queryTemplate);
+
+$hostname = $wf-&gt;get( 'hostname', 'settings.plist' );
+$user = $wf-&gt;get( 'username', 'settings.plist' );
+$password = $wf-&gt;get( 'password', 'settings.plist' );
+$basicInfo = $user.":".$password;
+
+$url = "https://".$basicInfo."@".$hostname;
+$xml = $wf-&gt;request( $url."/rest/api/2/search?".$jqlQuery);
+$xml = json_decode($xml,true);
+$int = 1;
+
+if(count($xml['issues']) &gt; 0):
+	foreach ($xml['issues'] as $item)
+	{
+		$wf-&gt;result( 'issue', 'https://genomoncology.atlassian.net/browse/'.$item['key'], $item['key']." : ".$item['fields']['summary'], "Type: ".$item['fields']['issuetype']['name'].'  Status: '.$item['fields']['status']['name']."   Assigned to: ".$item['fields']['assignee']['displayName']."  Priority: ".$item['fields']['priority']['name'] , 'icon.png' );
+	};
+endif;
+
+$results = $wf-&gt;results();
+if ( count( $results ) == 0 ):
+	$wf-&gt;result( 'jira', 'No Suggestions', 'No Suggestions', 'No Issues found.', 'icon.png' );
+endif;
+
+echo $wf-&gt;toxml();</string>
+				<key>title</key>
+				<string>Search By ID</string>
+				<key>type</key>
+				<integer>1</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>48DFEE58-0666-4B66-BAB8-69FD38C7903E</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>keyword</key>
+				<string>jirasetfilter</string>
+				<key>queuedelaycustom</key>
+				<integer>5</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>2</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Gathering Filters...</string>
+				<key>script</key>
+				<string>require('workflows.php');
+$wf = new Workflows();
+
+$queryTemplate = "filter/favourite";
+$orig = "{query}";
+$jqlQuery = str_replace(' ', '%20', $queryTemplate);
+
+$hostname = $wf-&gt;get( 'hostname', 'settings.plist' );
+$user = $wf-&gt;get( 'username', 'settings.plist' );
+$password = $wf-&gt;get( 'password', 'settings.plist' );
+$basicInfo = $user.":".$password;
+
+$url = "https://".$basicInfo."@".$hostname;
+$xml = $wf-&gt;request( $url."/rest/api/2/".$jqlQuery);
+$xml = json_decode($xml,true);
+$int = 1;
+
+foreach ($xml as $item)
+{
+	$wf-&gt;result( 'issue', $item['name']."||".$item['searchUrl'], $item['name'], $item['jql'], 'icon.png');
+};
+
+$results = $wf-&gt;results();
+if ( count( $results ) == 0 ):
+	$wf-&gt;result( 'jira', 'No Suggestions', 'No Suggestions', 'No Issues found.', 'icon.png' );
+endif;
+
+echo $wf-&gt;toxml();</string>
+				<key>subtext</key>
+				<string>Select a Filter to set</string>
+				<key>title</key>
+				<string>Set Filter</string>
+				<key>type</key>
+				<integer>1</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>2632554D-9BF8-462F-95D2-3C20892974FF</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>$query = "{query}";
+
+require( 'workflows.php' );
+$w = new Workflows();
+
+$tokens = explode("||", $query);
+
+$name = "$tokens[0]";
+$filter = "$tokens[1]";
+
+$filter = str_replace('?', '\?', $filter);
+$filter = str_replace('+', '\+', $filter);
+$filter = str_replace('(', '::left::', $filter);
+$filter = str_replace(')', '::right::', $filter);
+
+
+$w-&gt;set( 'filterName', $name, 'settings.plist' );
+$w-&gt;set( 'filter', $filter, 'settings.plist' );
+
+echo 'Set Filter to '.$name;</string>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>04738A54-DBDC-443A-815D-71A55BE03892</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>require('workflows.php');
+$wf = new Workflows();
+
+$orig = "{query}";
+
+$tokens = explode("||", $orig);
+
+$name = "$tokens[0]";
+$id = "$tokens[1]";
+
+$hostname = $wf-&gt;get( 'hostname', 'settings.plist' );
+$user = $wf-&gt;get( 'username', 'settings.plist' );
+$password = $wf-&gt;get( 'password', 'settings.plist' );
+$basicInfo = $user.":".$password;
+
+$url = "https://".$basicInfo."@".$hostname;
+
+$data = array("fields" =&gt; array("assignee" =&gt; array("name" =&gt; $name)));                                                                    
+$data_string = json_encode($data);
+
+$xml = $wf-&gt;requestDataPUT($url."/rest/api/2/issue/".$id, $data_string, "PUT");
+
+if($xml == ''):
+	echo "Success! Your job has been posted!";
+else:
+	echo "Error:".$xml;
+endif;</string>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>87BB8E90-8109-4FAF-9472-E112795CD4D1</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>keyword</key>
+				<string>jiraassign</string>
+				<key>queuedelaycustom</key>
+				<integer>5</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>2</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Gathering Issues...</string>
+				<key>script</key>
+				<string>require('workflows.php');
+$wf = new Workflows();
+
+$orig = "{query}";
+
+$hostname = $wf-&gt;get( 'hostname', 'settings.plist' );
+$user = $wf-&gt;get( 'username', 'settings.plist' );
+$password = $wf-&gt;get( 'password', 'settings.plist' );
+$basicInfo = $user.":".$password;
+$filter = $wf-&gt;get( 'filter', 'settings.plist' );
+$filter = str_replace('::left::', '(', $filter);
+$filter = str_replace('::right::', ')', $filter);
+$filter = str_replace('https://'.$hostname, '', $filter);
+
+$url = "https://".$basicInfo."@".$hostname;
+
+$xml = $wf-&gt;request($url.$filter);
+$xml = json_decode($xml,true);
+$int = 1;
+
+foreach ($xml['issues'] as $item)
+{
+	$wf-&gt;result( 'issue', $orig."||".$item['id'], $item['key']." : ".$item['fields']['summary'], "Type: ".$item['fields']['issuetype']['name'].'  Status: '.$item['fields']['status']['name']."   Assigned to: ".$item['fields']['assignee']['displayName']."  Priority: ".$item['fields']['priority']['name'], 'icon.png');
+};
+
+$results = $wf-&gt;results();
+if ( count( $results ) == 0 ):
+	$wf-&gt;result( 'jira', 'No Suggestions', 'No Suggestions', 'No Issues found.', 'icon.png' );
+endif;
+
+echo $wf-&gt;toxml();</string>
+				<key>subtext</key>
+				<string>Enter username to assign</string>
+				<key>title</key>
+				<string>Gather Issues by set filter and assign</string>
+				<key>type</key>
+				<integer>1</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>6C99BED4-076D-4215-AA81-CF6D1B7D9243</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>output</key>
+				<integer>0</integer>
+				<key>removeextension</key>
+				<false/>
+				<key>sticky</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Status</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>E92BF36A-566D-4D79-94A0-F4BA1AAA0819</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>keyword</key>
+				<string>jiracomment</string>
+				<key>queuedelaycustom</key>
+				<integer>5</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>2</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Gathering Issues...</string>
+				<key>script</key>
+				<string>require('workflows.php');
+$wf = new Workflows();
+
+$orig = "{query}";
+
+$hostname = $wf-&gt;get( 'hostname', 'settings.plist' );
+$user = $wf-&gt;get( 'username', 'settings.plist' );
+$password = $wf-&gt;get( 'password', 'settings.plist' );
+$basicInfo = $user.":".$password;
+$filter = $wf-&gt;get( 'filter', 'settings.plist' );
+$filter = str_replace('::left::', '(', $filter);
+$filter = str_replace('::right::', ')', $filter);
+$filter = str_replace('https://'.$hostname, '', $filter);
+
+$url = "https://".$basicInfo."@".$hostname;
+
+$xml = $wf-&gt;request($url.$filter);
+$xml = json_decode($xml,true);
+$int = 1;
+
+foreach ($xml['issues'] as $item)
+{
+	$wf-&gt;result( 'issue', $orig."||".$item['id'], $item['key']." : ".$item['fields']['summary'], "Type: ".$item['fields']['issuetype']['name'].'  Status: '.$item['fields']['status']['name']."   Assigned to: ".$item['fields']['assignee']['displayName']."  Priority: ".$item['fields']['priority']['name'], 'icon.png');
+};
+
+$results = $wf-&gt;results();
+if ( count( $results ) == 0 ):
+	$wf-&gt;result( 'jira', 'No Suggestions', 'No Suggestions', 'No Issues found.', 'icon.png' );
+endif;
+
+echo $wf-&gt;toxml();</string>
+				<key>subtext</key>
+				<string>Enter comment</string>
+				<key>title</key>
+				<string>Gather Issues by set filter and comment</string>
+				<key>type</key>
+				<integer>1</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>4CE6DD8F-4A20-4F55-80A6-E6EA3237DF56</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>require('workflows.php');
+$wf = new Workflows();
+
+$orig = "{query}";
+
+$tokens = explode("||", $orig);
+
+$comment = "$tokens[0]";
+$id = "$tokens[1]";
+
+$hostname = $wf-&gt;get( 'hostname', 'settings.plist' );
+$user = $wf-&gt;get( 'username', 'settings.plist' );
+$password = $wf-&gt;get( 'password', 'settings.plist' );
+$basicInfo = $user.":".$password;
+
+$url = "https://".$basicInfo."@".$hostname;
+
+$data = array("body" =&gt; $comment);                                                                    
+$data_string = json_encode($data);
+
+$xml = $wf-&gt;requestDataPUT($url."/rest/api/2/issue/".$id."/comment", $data_string, "POST");
+
+$xml = json_decode($xml,true);
+
+if($xml['body'] == $comment):
+	echo "Success! Your job has been posted!";
+else:
+	echo "Error:".$xml;
+endif;</string>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>A94F6596-B288-4CB2-BB97-D62B3647EB8A</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>keyword</key>
+				<string>jirawork</string>
+				<key>queuedelaycustom</key>
+				<integer>5</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>2</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Gathering Issues...</string>
+				<key>script</key>
+				<string>require('workflows.php');
+$wf = new Workflows();
+
+$orig = "{query}";
+
+$hostname = $wf-&gt;get( 'hostname', 'settings.plist' );
+$user = $wf-&gt;get( 'username', 'settings.plist' );
+$password = $wf-&gt;get( 'password', 'settings.plist' );
+$basicInfo = $user.":".$password;
+$filter = $wf-&gt;get( 'filter', 'settings.plist' );
+$filter = str_replace('::left::', '(', $filter);
+$filter = str_replace('::right::', ')', $filter);
+$filter = str_replace('https://'.$hostname, '', $filter);
+
+$url = "https://".$basicInfo."@".$hostname;
+
+$xml = $wf-&gt;request($url.$filter);
+$xml = json_decode($xml,true);
+$int = 1;
+
+foreach ($xml['issues'] as $item)
+{
+	$wf-&gt;result( 'issue', $orig."||".$item['id'], $item['key']." : ".$item['fields']['summary'], "Type: ".$item['fields']['issuetype']['name'].'  Status: '.$item['fields']['status']['name']."   Assigned to: ".$item['fields']['assignee']['displayName']."  Priority: ".$item['fields']['priority']['name'], 'icon.png');
+};
+
+$results = $wf-&gt;results();
+if ( count( $results ) == 0 ):
+	$wf-&gt;result( 'jira', 'No Suggestions', 'No Suggestions', 'No Issues found.', 'icon.png' );
+endif;
+
+echo $wf-&gt;toxml();</string>
+				<key>subtext</key>
+				<string>Enter hours</string>
+				<key>title</key>
+				<string>Gather Issues by set filter and log work</string>
+				<key>type</key>
+				<integer>1</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>446748F5-9254-4BB0-8D9E-738640545631</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>require('workflows.php');
+$wf = new Workflows();
+
+$orig = "{query}";
+
+$tokens = explode("||", $orig);
+
+$time = "$tokens[0]";
+$id = "$tokens[1]";
+
+$hostname = $wf-&gt;get( 'hostname', 'settings.plist' );
+$user = $wf-&gt;get( 'username', 'settings.plist' );
+$password = $wf-&gt;get( 'password', 'settings.plist' );
+$basicInfo = $user.":".$password;
+
+$url = "https://".$basicInfo."@".$hostname;
+
+$data = array("fields" =&gt; array("timespent" =&gt; $time));                                                                    
+$data_string = json_encode($data);
+
+$xml = $wf-&gt;requestDataPUT($url."/rest/api/2/issue/".$id, $data_string, "PUT");
+
+if($xml == ''):
+	echo "Success! Your job has been posted!";
+else:
+	echo "Error:".$xml;
+endif;</string>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>6061B0A4-3D61-479C-B3E3-6BF19306CEE4</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string></string>
+	<key>uidata</key>
+	<dict>
+		<key>04738A54-DBDC-443A-815D-71A55BE03892</key>
+		<dict>
+			<key>ypos</key>
+			<real>650</real>
+		</dict>
+		<key>2632554D-9BF8-462F-95D2-3C20892974FF</key>
+		<dict>
+			<key>ypos</key>
+			<real>650</real>
+		</dict>
+		<key>3EFE5191-92D0-46A1-B89E-CAC5557F08AC</key>
+		<dict>
+			<key>ypos</key>
+			<real>10</real>
+		</dict>
+		<key>446748F5-9254-4BB0-8D9E-738640545631</key>
+		<dict>
+			<key>ypos</key>
+			<real>1010</real>
+		</dict>
+		<key>48DFEE58-0666-4B66-BAB8-69FD38C7903E</key>
+		<dict>
+			<key>ypos</key>
+			<real>520</real>
+		</dict>
+		<key>4CE6DD8F-4A20-4F55-80A6-E6EA3237DF56</key>
+		<dict>
+			<key>ypos</key>
+			<real>890</real>
+		</dict>
+		<key>5A7BFC9D-C063-4AA1-AE70-CAB4D7F0D3FD</key>
+		<dict>
+			<key>ypos</key>
+			<real>10</real>
+		</dict>
+		<key>6061B0A4-3D61-479C-B3E3-6BF19306CEE4</key>
+		<dict>
+			<key>ypos</key>
+			<real>1010</real>
+		</dict>
+		<key>63A98276-5343-4BC8-ACC6-39C3351A1D4D</key>
+		<dict>
+			<key>ypos</key>
+			<real>130</real>
+		</dict>
+		<key>6C99BED4-076D-4215-AA81-CF6D1B7D9243</key>
+		<dict>
+			<key>ypos</key>
+			<real>770</real>
+		</dict>
+		<key>7D0482A9-C3E9-4F48-86AC-1CED9003F59B</key>
+		<dict>
+			<key>ypos</key>
+			<real>340</real>
+		</dict>
+		<key>87BB8E90-8109-4FAF-9472-E112795CD4D1</key>
+		<dict>
+			<key>ypos</key>
+			<real>770</real>
+		</dict>
+		<key>A94F6596-B288-4CB2-BB97-D62B3647EB8A</key>
+		<dict>
+			<key>ypos</key>
+			<real>890</real>
+		</dict>
+		<key>B918AFAB-C2C4-4FE5-A2EC-F54D95CE7157</key>
+		<dict>
+			<key>ypos</key>
+			<real>390</real>
+		</dict>
+		<key>E2FDD6F8-BD61-46FE-8E70-6886E059BC21</key>
+		<dict>
+			<key>ypos</key>
+			<real>260</real>
+		</dict>
+		<key>E92BF36A-566D-4D79-94A0-F4BA1AAA0819</key>
+		<dict>
+			<key>ypos</key>
+			<real>840</real>
+		</dict>
+		<key>F50CC8C5-932D-4024-A1BA-DB4C8638B20C</key>
+		<dict>
+			<key>ypos</key>
+			<real>10</real>
+		</dict>
+	</dict>
+	<key>webaddress</key>
+	<string></string>
+</dict>
+</plist>
