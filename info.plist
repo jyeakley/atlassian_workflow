@@ -315,7 +315,7 @@ $int = 1;
 
 foreach ($xml['issues'] as $item)
 {
-	$wf-&gt;result( 'issue', 'https://genomoncology.atlassian.net/browse/'.$item['key'], $item['key']." : ".$item['fields']['summary'], "Type: ".$item['fields']['issuetype']['name'].'  Status: '.$item['fields']['status']['name']."   Assigned to: ".$item['fields']['assignee']['displayName']."  Priority: ".$item['fields']['priority']['name'], 'icon.png');
+	$wf-&gt;result( 'issue', 'https://'.$hostname.'/browse/'.$item['key'], $item['key']." : ".$item['fields']['summary'], "Type: ".$item['fields']['issuetype']['name'].'  Status: '.$item['fields']['status']['name']."   Assigned to: ".$item['fields']['assignee']['displayName']."  Priority: ".$item['fields']['priority']['name'], 'icon.png');
 };
 
 $results = $wf-&gt;results();
@@ -362,7 +362,7 @@ echo $wf-&gt;toxml();</string>
 $wf = new Workflows();
 
 $orig = "{query}";
-$queryTemplate = "jql=project%20in%20(DS,%20JY,%20CS)%20AND%20issuetype%20in%20(Bug,%20Epic,%20\"New%20Feature\",%20Task,%20Sub-task)%20AND%20status%20in%20(Open,%20\"Ready%20to%20Code\",%20\"In%20Code\",%20Failed,%20\"To%20Do\",%20\"In%20Dev\")%20AND%20assignee%20in%20($orig)";
+$queryTemplate = "jql=assignee%20in%20($orig)";
 $jqlQuery = str_replace(' ', '%20', $queryTemplate);
 
 $hostname = $wf-&gt;get( 'hostname', 'settings.plist' );
@@ -377,7 +377,7 @@ $int = 1;
 
 foreach ($xml['issues'] as $item)
 {
-	$wf-&gt;result( 'issue', 'https://genomoncology.atlassian.net/browse/'.$item['key'], $item['key']." : ".$item['fields']['summary'], "Type: ".$item['fields']['issuetype']['name'].'  Status: '.$item['fields']['status']['name']."   Assigned to: ".$item['fields']['assignee']['displayName']."  Priority: ".$item['fields']['priority']['name'] , 'icon.png' );
+	$wf-&gt;result( 'issue', 'https://'.$hostname.'/browse/'.$item['key'], $item['key']." : ".$item['fields']['summary'], "Type: ".$item['fields']['issuetype']['name'].'  Status: '.$item['fields']['status']['name']."   Assigned to: ".$item['fields']['assignee']['displayName']."  Priority: ".$item['fields']['priority']['name'] , 'icon.png' );
 };
 
 $results = $wf-&gt;results();
@@ -457,7 +457,7 @@ $int = 1;
 if(count($xml['issues']) &gt; 0):
 	foreach ($xml['issues'] as $item)
 	{
-		$wf-&gt;result( 'issue', 'https://genomoncology.atlassian.net/browse/'.$item['key'], $item['key']." : ".$item['fields']['summary'], "Type: ".$item['fields']['issuetype']['name'].'  Status: '.$item['fields']['status']['name']."   Assigned to: ".$item['fields']['assignee']['displayName']."  Priority: ".$item['fields']['priority']['name'] , 'icon.png' );
+		$wf-&gt;result( 'issue', 'https://'.$hostname.'/browse/'.$item['key'], $item['key']." : ".$item['fields']['summary'], "Type: ".$item['fields']['issuetype']['name'].'  Status: '.$item['fields']['status']['name']."   Assigned to: ".$item['fields']['assignee']['displayName']."  Priority: ".$item['fields']['priority']['name'] , 'icon.png' );
 	};
 endif;
 
@@ -521,7 +521,7 @@ $int = 1;
 if(count($xml['issues']) &gt; 0):
 	foreach ($xml['issues'] as $item)
 	{
-		$wf-&gt;result( 'issue', 'https://genomoncology.atlassian.net/browse/'.$item['key'], $item['key']." : ".$item['fields']['summary'], "Type: ".$item['fields']['issuetype']['name'].'  Status: '.$item['fields']['status']['name']."   Assigned to: ".$item['fields']['assignee']['displayName']."  Priority: ".$item['fields']['priority']['name'] , 'icon.png' );
+		$wf-&gt;result( 'issue', 'https://'.$hostname.'/browse/'.$item['key'], $item['key']." : ".$item['fields']['summary'], "Type: ".$item['fields']['issuetype']['name'].'  Status: '.$item['fields']['status']['name']."   Assigned to: ".$item['fields']['assignee']['displayName']."  Priority: ".$item['fields']['priority']['name'] , 'icon.png' );
 	};
 endif;
 
